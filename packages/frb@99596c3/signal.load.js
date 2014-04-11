@@ -1,0 +1,1 @@
+montageDefine("99596c3","signal",{dependencies:["collections/map"],factory:function(e,i,t){function s(e){var i=new a;return i.getDefault=function(){return 0},{observe:function(t){return t(e),i.set(t,i.get(t)+1),function(){i.set(t,i.get(t)-1)}},emit:function(t){e=t,i.forEach(function(e,i){i(t)})}}}var a=e("collections/map");t.exports=s}});

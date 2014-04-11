@@ -1,0 +1,1 @@
+montageDefine("be2af55","vendor/requirejs/tests/text/local",{dependencies:[],factory:function(){define(["text!./resources/local.html"],function(e){return{localHtml:e}})}});

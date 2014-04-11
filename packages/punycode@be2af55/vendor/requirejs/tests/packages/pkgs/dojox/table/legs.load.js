@@ -1,0 +1,1 @@
+montageDefine("be2af55","vendor/requirejs/tests/packages/pkgs/dojox/table/legs",{dependencies:[],factory:function(){define({name:"dojox/table/legs"})}});

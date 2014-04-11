@@ -1,0 +1,1 @@
+function assign(e,i,t,s,a,u){var n;n="string"==typeof i?parse(i):i;var l=compile(n),r=new Scope(e);return r.parameters=s,r.document=a,r.components=u,l(t,r)}var parse=require("./parse"),compile=require("./compile-assigner"),Scope=require("./scope");module.exports=assign;

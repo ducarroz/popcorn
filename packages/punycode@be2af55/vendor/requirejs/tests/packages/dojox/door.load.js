@@ -1,0 +1,1 @@
+montageDefine("be2af55","vendor/requirejs/tests/packages/dojox/door",{dependencies:[],factory:function(){define({name:"dojox/door"})}});

@@ -1,0 +1,1 @@
+montageDefine("99596c3","evaluate",{dependencies:["./parse","./compile-evaluator","./scope"],factory:function(e,i,t){function s(e,i,t,s,l){var r;r="string"==typeof e?a(e):e;var o=u(r),c=new n(i);return c.parameters=t,c.document=s,c.components=l,o(c)}var a=e("./parse"),u=e("./compile-evaluator"),n=e("./scope");t.exports=s}});

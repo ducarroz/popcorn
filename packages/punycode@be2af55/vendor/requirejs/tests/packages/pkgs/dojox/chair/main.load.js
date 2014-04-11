@@ -1,0 +1,1 @@
+montageDefine("be2af55","vendor/requirejs/tests/packages/pkgs/dojox/chair/main",{dependencies:[],factory:function(){define(["./legs"],function(e){return{name:"dojox/chair",legsName:e.name}})}});

@@ -1,0 +1,1 @@
+montageDefine("be2af55","vendor/requirejs/tests/plugins/nameOnly-tests",{dependencies:[],factory:function(e){e({baseUrl:e.isBrowser?"./":"./plugins/"},["require","nameOnly!"],function(e,i){doh.register("pluginsNameOnly",[function(e){e.is("nameOnly",i.name)}]),doh.run()})}});

@@ -1,0 +1,1 @@
+montageDefine("be2af55","vendor/requirejs/tests/packages/pkgs/beta/0.2/scripts/beta",{dependencies:[],factory:function(){define(function(){return"beta"})}});

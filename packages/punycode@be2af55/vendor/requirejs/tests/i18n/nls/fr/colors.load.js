@@ -1,0 +1,1 @@
+montageDefine("be2af55","vendor/requirejs/tests/i18n/nls/fr/colors",{dependencies:[],factory:function(){define({red:"rouge",blue:"bleu"})}});

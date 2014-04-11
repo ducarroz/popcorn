@@ -1,0 +1,1 @@
+montageDefine("be2af55","vendor/requirejs/tests/packages/replace",{dependencies:[],factory:function(){define({name:"fake/alpha/replace"})}});

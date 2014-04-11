@@ -1,0 +1,1 @@
+montageDefine("be2af55","vendor/requirejs/tests/dataMain",{dependencies:[],factory:function(e){e({baseUrl:"./"},["require","simple"],function(e,i){doh.register("dataMain",[function(e){e.is("blue",i.color)}]),doh.run()})}});

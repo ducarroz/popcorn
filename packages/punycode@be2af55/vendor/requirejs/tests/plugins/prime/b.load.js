@@ -1,0 +1,1 @@
+montageDefine("be2af55","vendor/requirejs/tests/plugins/prime/b",{dependencies:[],factory:function(){define(function(){return{name:"bPrime"}})}});

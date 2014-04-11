@@ -1,0 +1,1 @@
+montageDefine("be2af55","vendor/requirejs/tests/browsertests/scriptload/one",{dependencies:[],factory:function(){log("one.js script")}});

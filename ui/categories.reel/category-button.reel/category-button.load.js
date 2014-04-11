@@ -1,0 +1,1 @@
+montageDefine("fefb24d","ui/categories.reel/category-button.reel/category-button",{dependencies:["montage/ui/base/abstract-radio-button"],factory:function(e,t){var o=e("montage/ui/base/abstract-radio-button").AbstractRadioButton;t.CategoryButton=o.specialize({constructor:{value:function(){this.super()}},label:{value:null}})}});

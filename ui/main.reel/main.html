@@ -1,0 +1,22 @@
+<!DOCTYPE html><html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" type="text/css" href="main.css" />
+    <script type="text/montage-serialization">{"owner":{"properties":{"element":{"#":"owner"}}},"categories":{"prototype":"ui/categories.reel","properties":{"element":{"#":"categories"}},"bindings":{"categories":{"<-":"@owner.rottenTomato.categories"}}},"details":{"prototype":"ui/details.reel","properties":{"element":{"#":"details"}},"bindings":{"data":{"<-":"@facadeflow.categoryContentController.selection.0"}}},"facadeflow":{"prototype":"ui/facadeflow.reel","properties":{"element":{"#":"facadeflow"},"details":{"@":"details"}},"bindings":{"categoryContentController":{"<-":"@owner.rottenTomato.categories.selection.one().contentController"}}},"popup":{"prototype":"ui/moviepopup.reel","properties":{"element":{"#":"popup"}}}}</script>
+</head>
+<body>
+    <div data-montage-id="owner" class="Main">
+        <img class="logo" src="../../assets/image/logo.png" alt="logo" />
+        <div data-montage-id="categories"></div>
+        <div class="facadeWindow">
+            <div data-montage-id="facadeflow" class="facade">
+                <div data-montage-id="facade-flow" class="facade-flow"></div>
+            </div>
+            <div data-montage-id="details" class="details"></div>
+        </div>
+
+        <a class="MontageMade" href="http://montagejs.org">Made with Montage</a>
+        <div data-montage-id="popup" class="popup"></div>
+    </div>
+
+
+</body></html>

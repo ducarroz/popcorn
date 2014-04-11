@@ -1,0 +1,1 @@
+montageDefine("be2af55","vendor/requirejs/tests/packages/dojox/window/pane",{dependencies:[],factory:function(){define({name:"dojox/window/pane"})}});

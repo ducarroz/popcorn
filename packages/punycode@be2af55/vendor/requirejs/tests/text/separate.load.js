@@ -1,0 +1,1 @@
+montageDefine("be2af55","vendor/requirejs/tests/text/separate",{dependencies:[],factory:function(){define(["text!resources/sample.html!strip"],function(){})}});

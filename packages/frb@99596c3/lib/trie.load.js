@@ -1,0 +1,1 @@
+montageDefine("99596c3","lib/trie",{dependencies:[],factory:function(e,i,t){function s(e){var i=Object.keys(e),t={value:void 0,children:{}},a={};i.forEach(function(i){if(0===i.length)t.value=e[i];else{var s=i[0];a[s]||(a[s]={});var u=i.slice(1);a[s][u]=e[i]}});var u=Object.keys(a);return u.forEach(function(e){t.children[e]=s(a[e])}),t}t.exports=s}});
